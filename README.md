@@ -17,3 +17,13 @@ Capstone Project/
 ├── support_assistant/
 ├── .gitignore
 └── README.md
+
+## Submission Status
+
+All three capstone modules are included in this repository:
+
+- `/data_pipeline`
+- `/analytics`
+- `/support_assistant`
+
+The repository contains the required module-level implementations and documentation.
